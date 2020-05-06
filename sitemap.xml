@@ -8,12 +8,17 @@
   </url>
   
   <url>
-    <loc>https://why-freedom.github.io/publication/</loc>
+    <loc>https://why-freedom.github.io/publication/2020-05-06-%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0%E4%B8%80/</loc>
     <lastmod>2020-05-06T00:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://why-freedom.github.io/publication/2020-05-06-%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0%E4%B8%80/</loc>
+    <loc>https://why-freedom.github.io/talk/2020%E5%BE%85%E8%AF%BB%E4%B9%A6%E5%8D%95/</loc>
+    <lastmod>2020-05-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://why-freedom.github.io/publication/</loc>
     <lastmod>2020-05-06T00:00:00+08:00</lastmod>
   </url>
   
@@ -23,8 +28,33 @@
   </url>
   
   <url>
+    <loc>https://why-freedom.github.io/talk/</loc>
+    <lastmod>2020-05-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://why-freedom.github.io/tag/%E7%BA%AA%E5%AE%9E%E6%91%84%E5%BD%B1/</loc>
     <lastmod>2020-05-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://why-freedom.github.io/tag/%E7%BE%8E%E5%AD%A6/</loc>
+    <lastmod>2020-05-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://why-freedom.github.io/publication/2020-05-06-%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0%E4%BA%8C/</loc>
+    <lastmod>2020-03-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://why-freedom.github.io/tag/%E8%A1%97%E6%8B%8D/</loc>
+    <lastmod>2019-11-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://why-freedom.github.io/publication/2019-11-01-%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0%E4%B8%89/</loc>
+    <lastmod>2019-11-01T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -56,10 +86,6 @@
   
   <url>
     <loc>https://why-freedom.github.io/author/%E6%B8%A9%E7%84%95%E5%AE%87/</loc>
-  </url>
-  
-  <url>
-    <loc>https://why-freedom.github.io/talk/</loc>
   </url>
   
 </urlset>
