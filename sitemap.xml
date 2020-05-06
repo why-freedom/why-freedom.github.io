@@ -3,7 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://why-freedom.github.io/tags/</loc>
+    <lastmod>2020-05-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://why-freedom.github.io/publication/</loc>
+    <lastmod>2020-05-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://why-freedom.github.io/</loc>
+    <lastmod>2020-05-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://why-freedom.github.io/tag/%E7%BA%AA%E5%AE%9E%E6%91%84%E5%BD%B1/</loc>
+    <lastmod>2020-05-06T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://why-freedom.github.io/publication/2020-05-06-%E6%91%84%E5%BD%B1%E7%AC%94%E8%AE%B0%E4%B8%80/</loc>
+    <lastmod>2020-05-06T00:00:00+08:00</lastmod>
   </url>
   
   <url>
@@ -15,7 +36,7 @@
   </url>
   
   <url>
-    <loc>https://why-freedom.github.io/author/nelson-bighetti/</loc>
+    <loc>https://why-freedom.github.io/publication_types/</loc>
   </url>
   
   <url>
@@ -23,19 +44,11 @@
   </url>
   
   <url>
-    <loc>https://why-freedom.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://why-freedom.github.io/publication/</loc>
+    <loc>https://why-freedom.github.io/author/%E6%B8%A9%E7%84%95%E5%AE%87/</loc>
   </url>
   
   <url>
     <loc>https://why-freedom.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://why-freedom.github.io/tags/</loc>
   </url>
   
 </urlset>
